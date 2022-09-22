@@ -29,6 +29,11 @@ IBM Watson Assistant
 Technical Architecture:
 
 
+
+![image](https://user-images.githubusercontent.com/103843521/191652274-3e04d8fc-cc2c-4348-87c5-337e603f2e1e.png)
+
+
+
 Tasks
 Project Design & Planning
 Ideation Phase
