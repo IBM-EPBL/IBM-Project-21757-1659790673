@@ -1,10 +1,7 @@
-# IBM-Project-21757-1659790673
+IBM-Project-21757-1659790673
 AI based discourse for Banking Industry
 
 Technology: Artificial Intelligence
-Team ID: PNT2022TMID27838
-
-Batch: B7 - 1A3E
 
 Team Leader: Ramyaa.M
 
@@ -29,7 +26,6 @@ Services Used:
 IBM Watson Assistant
 Technical Architecture:
 
-image
 
 Tasks
 Project Design & Planning
