@@ -1,4 +1,5 @@
-<img align="right"alt="coding"width="100"src="https://img.freepik.com/premium-vector/cute-robot-waving-hand-cartoon-illustration_138676-2744.jpg">
+<img align="right"alt="coding"width="100"src="![image](https://user-images.githubusercontent.com/103843521/206840902-2d94570e-7bc7-465f-b65d-14e74d9a2a9b.png)
+">
 <h1 align="centre">AI based discourse for Banking Industry</h1> 
 
 
