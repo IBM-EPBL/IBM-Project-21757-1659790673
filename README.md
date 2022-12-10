@@ -1,5 +1,4 @@
-<img align="right"alt="coding"width="20"src="!https://user-images.githubusercontent.com/103843521/206840902-2d94570e-7bc7-465f-b65d-14e74d9a2a9b.png">
-<h1 align="centre">AI based discourse for Banking Industry</h1> 
+# <img src="https://img.freepik.com/premium-vector/cute-robot-waving-hand-cartoon-illustration_138676-2744.jpg" width="70px"> AI based discourse for Banking Industry <img src="https://media.giphy.com/media/9KNNKJ3u8QjCOatFWe/giphy.gif" width="60px">
 
 
 IBM-Project-21757-1659790673
